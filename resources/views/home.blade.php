@@ -3,7 +3,7 @@
 @section('content')
 <div class="container">
     
-        <!--アイキャッチ画像-->
+        <!--アイキャッチ画像 -->
     <div class="card">
         <img class="card-img img-fluid" src="/images/shop_staff3.png" style="opacity: 0.8;">
         <div class="card-img-overlay d-flex align-items-end justify-content-end pb-2">
